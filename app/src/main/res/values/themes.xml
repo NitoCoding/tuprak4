@@ -1,0 +1,26 @@
+<resources>
+<!--    &lt;!&ndash; Base application theme &ndash;&gt;-->
+<!--    <style name="Base.Theme.Tuprak4" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your base theme here &ndash;&gt;-->
+<!--        &lt;!&ndash; Atur warna dasar tema, sesuaikan warna sesuai kebutuhan &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/primaryColor</item>-->
+<!--        <item name="colorOnPrimary">@color/onPrimaryColor</item>-->
+<!--        <item name="colorSecondary">@color/secondaryColor</item>-->
+<!--        <item name="colorOnSecondary">@color/onSecondaryColor</item>-->
+<!--        <item name="colorSurface">@color/white</item>-->
+<!--        <item name="colorOnSurface">@color/black</item>-->
+<!--        <item name="backgroundColor">@color/white</item>-->
+<!--        <item name="colorOnBackground">@color/black</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Tema aplikasi dengan warna latar belakang putih &ndash;&gt;-->
+<!--    <style name="Theme.Tuprak4" parent="Base.Theme.Tuprak4">-->
+<!--        &lt;!&ndash; Atur properti warna lain sesuai kebutuhan &ndash;&gt;-->
+<!--        <item name="backgroundColor">@color/white</item>-->
+<!--        <item name="colorOnBackground">@color/black</item>-->
+<!--        <item name="colorSurface">@color/white</item>-->
+<!--        <item name="colorOnSurface">@color/black</item>-->
+<!--        <item name="android:textColorPrimary">@color/black</item>-->
+<!--        <item name="android:textColorSecondary">@color/gray</item>-->
+<!--    </style>-->
+</resources>
